@@ -1,0 +1,6 @@
+DistilBERT: https://huggingface.co/docs/transformers/en/model_doc/distilbert 
+Tiny GPT family: https://huggingface.co/papers/2312.16862 
+Tiny LlaMA chat 1.1B: https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0 
+Gemma 2-2B: https://huggingface.co/google/gemma-2-2b
+
+https://huggingface.co/facebook/m2m100_418M : Text translation
